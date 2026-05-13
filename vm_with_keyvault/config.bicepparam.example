@@ -1,0 +1,7 @@
+using './main.bicep'
+
+param resourceGroup_name = 'bicep-learning'
+param resourceGroup_location = 'ukwest'
+param managedByUser = 'Aaron.Watson'
+param adminUsername = 'azureuser'
+param adminPassword = 'deliciousDOMESTOS69!'
